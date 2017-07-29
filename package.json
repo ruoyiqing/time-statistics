@@ -1,0 +1,11 @@
+{
+  "name": "time-statistics",
+  "version": "1.0.0",
+  "author": "ruoyiqing",
+  "description": "A tool for time statistics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruoyiqing/time-statistics.git"
+  },
+  "main": "src/index.js"
+}
